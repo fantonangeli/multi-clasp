@@ -1,6 +1,8 @@
 multi-clasp
 ===========
 
+## This project repo is no longer being maintained. The updated version is on https://github.com/fantonangeli/multi-clasp2 ##
+
 `multi-clasp` is meant to solve a specific problem:
 You have multiple google artifacts (sheets, docs, etc.) that all use the same Apps Script project.
 
