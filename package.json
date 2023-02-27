@@ -2,6 +2,7 @@
   "name": "multi-clasp",
   "version": "1.0.0",
   "description": "multi-clasp ===========",
+  "deprecated": "This package is no longer maintained. Please use multi-clasp2 from npm instead."
   "main": "index.js",
   "dependencies": {
     "@google/clasp": "1.5.3"
